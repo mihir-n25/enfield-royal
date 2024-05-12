@@ -15,32 +15,30 @@ import {
     {
       id: 1,
       textLists: [
-        "Enter A17 Pro.",
-        "Game‑changing chip.",
-        "Groundbreaking performance.",
+        "Embrace the Spirit of Adventure.",
+        "Where Legends Roar.",
       ],
       video: highlightFirstVideo,
       videoDuration: 4.17,
     },
     {
       id: 2,
-      textLists: ["Titanium.", "So strong. So light. So Pro."],
+      textLists: ["Precision, Passion, Performance"],
       video: highlightSecondVideo,
       videoDuration: 3.10,
     },
     {
       id: 3,
       textLists: [
-        "iPhone 15 Pro Max has the",
-        "longest optical zoom in",
-        "iPhone ever. Far out.",
+        "Heritage on Two Wheels",
+        "Every ride is a story waiting to be told.",
       ],
       video: highlightThirdVideo,
       videoDuration: 4.33,
     },
     {
       id: 4,
-      textLists: ["All-new Action button.", "What will yours do?."],
+      textLists: ["Built not just to ride, but to reign the roads."],
       video: highlightFourthVideo,
       videoDuration: 5.73,
     },

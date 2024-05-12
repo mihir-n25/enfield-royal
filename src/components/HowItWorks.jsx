@@ -62,37 +62,36 @@ const HowItWorks = () => {
               />
             </div>
             <div className="hiw-video">
-                <video className="pointer-events-none" playsInline preload="none" muted autoPlay ref={videoRef}>
+                <video className="pointer-events-none" playsInline preload="none" muted autoPlay loop ref={videoRef}>
                   <source src={frameVideo} type="video/mp4" />
                 </video>
               </div>
           </div>
           <p className="text-gray font-semibold text-center mt-3">Honkai: Star Rail</p>
           </div>
-
           <div className="hiw-text-container">
                 <div className="flex flex-1 justify-center flex-col">
                   <p className="hiw-text g_fadeIn">
-                    A17 Pro is an entirely new class of iPhone chip that delivers our {' '}
+                  Embark on a journey of innovation with our advanced ABS technology. {' '}
                     <span className="text-white">
-                      best graphic performance by far
+                    From conquering urban landscapes
                     </span>.
                   </p>
 
                   <p className="hiw-text g_fadeIn">
-                   Mobile {' '}
+                   Bullet : {' '}
                     <span className="text-white">
-                      games will look and feel so immersive
+                    elevate your riding experience
                     </span>,
-                     with incredibly detailed environments and characters.
+                    with safety that never takes a back seat.
                   </p>
                 </div>
               
 
               <div className="flex-1 flex justify-center flex-col g_fadeIn">
                 <p className="hiw-text">New</p>
-                <p className="hiw-bigtext">Pro-class GPU</p>
-                <p className="hiw-text">with 6 cores</p>
+                <p className="hiw-bigtext">Hunter X Huemn</p>
+                <p className="hiw-text">with 350cc Engine</p>
               </div>
               </div>
             </div>
