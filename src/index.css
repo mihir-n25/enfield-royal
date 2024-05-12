@@ -71,7 +71,7 @@ canvas {
   }
 
   .feature-video {
-    @apply w-full h-full object-cover object-center scale-150 opacity-0
+    @apply w-full h-full object-cover object-center scale-150 opacity-100
   }
 
   .feature-video-container {

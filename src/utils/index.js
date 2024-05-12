@@ -6,8 +6,8 @@ import hmv from "/assets/videos/hero.mp4";
 import smallmv from "/assets/videos/smallHero.mp4";
 import highlightFirstmv from "/assets/videos/highlight-first.mp4";
 import highlightSectmv from "/assets/videos/hightlight-third.mp4";
-import highlightThirdmv from "/assets/videos/hightlight-sec.mp4";
-import highlightFourthmv from "/assets/videos/hightlight-fourth.mp4";
+import highlightThirdmv from "/assets/videos/highlight-sec.mp4";
+import highlightFourthmv from "/assets/videos/highlight-forth.mp4";
 import exploremv from "/assets/videos/explore.mp4";
 import framemv from "/assets/videos/frame.mp4";
 
@@ -26,7 +26,7 @@ import white from "/assets/images/white.jpg";
 import black from "/assets/images/black.jpg";
 import explore1 from "/assets/images/explore1.jpg";
 import explore2 from "/assets/images/explore2.jpg";
-import chip from "/assets/images/chip.jpeg";
+import chip from "/assets/images/logo.svg";
 import frame from "/assets/images/frame.png";
 
 export const heroVideo = hmv;

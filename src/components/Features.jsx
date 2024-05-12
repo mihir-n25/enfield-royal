@@ -22,7 +22,7 @@ const Features = () => {
     animateWithGsap('#features_title', { y:0, opacity:1})
     animateWithGsap(
       '.g_grow',
-      { scale: 1, opacity: 1, ease: 'power1' },
+      { scale: 0.8, opacity: 1, ease: 'power1.out' },
       { scrub: 5.5 }
     );
     animateWithGsap(
@@ -45,7 +45,7 @@ const Features = () => {
           </div>
 
           <div className="flex-center flex-col sm:px-10">
-            <div className="relative h-[50vh] w-full flex items-center">
+            <div className="relative h-[50vh] w-auto flex items-center my-4">
               <video playsInline id="exploreVideo" className="w-full h-full object-cover object-center" preload="none" muted autoPlay ref={videoRef}>
                 <source src={exploreVideo} type="video/mp4" />
               </video>
