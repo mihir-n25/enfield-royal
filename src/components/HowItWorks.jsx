@@ -23,15 +23,16 @@ const HowItWorks = () => {
       opacity: 1,
       scale: 0.5,
       duration: 2,
-      ease: 'power2.inOut'
+      ease: 'power2.inOut',
+      // stagger : 4.5
     })
 
     animateWithGsap('.g_fadeIn', {
       opacity: 1,
       y: 0,
-      // duration: 1,
+      duration: 1,
       ease: 'power2.inOut',
-      stagger : 2.5
+      // stagger : 2.5
     })
   }, []);
 
@@ -49,7 +50,7 @@ const HowItWorks = () => {
           </h2>
 
           <p className="hiw-subtitle">
-            It's here. The biggest redesign in the history of Apple GPUs.
+            Discover the art of effortless riding with our enhanced ergonomic designs.
           </p>
         </div>
 
