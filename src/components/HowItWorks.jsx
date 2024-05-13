@@ -44,9 +44,9 @@ const HowItWorks = () => {
         </div>
 
         <div className="flex flex-col items-center">
-          <h2 className="hiw-title">
-          statement of style
-            <br /> A monster win for roads.
+          <h2 className="hiw-title tracking-tight" style={{wordSpacing : '3px'}}>
+          Statement of Style
+            <br /> Monster Win for Roads.
           </h2>
 
           <p className="hiw-subtitle">
