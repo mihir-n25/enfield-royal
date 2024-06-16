@@ -8,6 +8,7 @@ export default defineConfig({
     org: "none-nz2",
     project: "javascript-react"
   })],
+  base: '/royal-enfield/',
 
   build: {
     sourcemap: true
