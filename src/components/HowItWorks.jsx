@@ -60,7 +60,7 @@ const HowItWorks = () => {
               <img 
                 src={frameImg}
                 alt="frame"
-                className="bg-transparent relative z-10"
+                className="bg-transparent relative z-1"
               />
             </div>
             <div className="hiw-video">
