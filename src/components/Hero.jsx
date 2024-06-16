@@ -1,5 +1,6 @@
 import gsap from 'gsap';
 import { useGSAP } from '@gsap/react';
+import shotgun from '/assets/images/shotgun.jpg'
 
 const Hero = () => {
 
@@ -13,7 +14,7 @@ const Hero = () => {
       <div className="h-5/6 w-full flex-center flex-col">
         <div className="md:w-full md:h-full w-24/12 h-80">
           <img 
-          src='/assets/images/shotgun.avif'
+          src={shotgun}
           alt='shotgun'
           />
         </div>
