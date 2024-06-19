@@ -2,8 +2,6 @@
 
 Welcome to the Royal Enfield Clone Website! This project is a front-end replication of the official Royal Enfield website, built using modern web technologies including Vite and GSAP for smooth and engaging animations.
 
-![Royal Enfield](./assets/royal_enfield_banner.jpg)
-
 ## 🌟 Features
 
 - **Fast and Efficient**: Powered by Vite for a blazing fast development experience.
